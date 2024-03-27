@@ -4,9 +4,11 @@ The technical I use in this project is basic HTML CSS and JS only.
 
 
 # Overview
-##Computer![enter image description here](overview/overview-computer.png)
-##Mobile![enter image description here](overview/overview-mobie.png)
-
+![enter image description here](overview/overview-computer.png)
+![enter image description here](overview/overview-mobie.png)
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 # Links
 - Solution URL: (https://github.com/thikamphon/launch-countdown-timer)
