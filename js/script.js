@@ -1,5 +1,5 @@
 window.onload = function () {
-    const countDownDate = new Date().setHours(new Date().getHours() + 24)
+    const countDownDate = new Date().setHours(new Date().getHours() + (24*9))
     var SetTimerInterval = setInterval(function () {
         var now = new Date().getTime();
         var distance = countDownDate - now;
