@@ -5,9 +5,7 @@ The technical I use in this project is basic HTML CSS and JS only.
 
 # Overview
 ![enter image description here](overview/overview-computer.png)
-![enter image description here](overview/overview-mobie.png)
 <p align="center">
-  ![enter image description here](overview/overview-mobie.png)
   <img src="https://github.com/thikamphon/launch-countdown-timer/blob/main/overview/overview-mobie.png" alt="Sublime's custom image"/>
 </p>
 
