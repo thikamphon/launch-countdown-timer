@@ -4,7 +4,8 @@ The technical I use in this project is basic HTML CSS and JS only.
 
 
 # Overview
-![enter image description here](https://github.com/thikamphon/Age-Calculate/blob/main/assets/images/overview.png)
+##Computer![enter image description here](overview/overview-computer.png)
+##Mobile![enter image description here](overview/overview-mobie.png)
 
 
 # Links
